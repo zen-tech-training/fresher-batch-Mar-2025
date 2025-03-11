@@ -1,5 +1,10 @@
 My file
+<<<<<<< HEAD
 
 class A {
 	
 }
+=======
+Hello
+GoodNoon
+>>>>>>> adb2d5ba906ebd056bef2a203b39655431d9b6b2
