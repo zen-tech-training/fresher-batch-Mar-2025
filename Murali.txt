@@ -1,5 +1,15 @@
 This is Murali's text file
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> branch 'main' of https://github.com/zen-tech-training/fresher-batch-Mar-2025
 This is saransh 
+<<<<<<< HEAD
 
 This is Murali
+=======
+=======
+This is Murali
+>>>>>>> a0fc08d922430844f4376fd15aadee65dba0b655
+>>>>>>> branch 'main' of https://github.com/zen-tech-training/fresher-batch-Mar-2025

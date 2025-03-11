@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi sinchana here hii,good morning
+=======
+hi sinchana here hii
+Namaste gowdreeee yen samachara
+>>>>>>> acafd1d2afbad2038ef410841a99b373956e2cf4

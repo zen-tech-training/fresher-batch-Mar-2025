@@ -1,6 +1,14 @@
 My file
+<<<<<<< HEAD
 
 class A {
 	
 }
+<<<<<<< HEAD
 hdkhqkshjsb
+=======
+=======
+Hello
+GoodNoon
+>>>>>>> adb2d5ba906ebd056bef2a203b39655431d9b6b2
+>>>>>>> branch 'main' of https://github.com/zen-tech-training/fresher-batch-Mar-2025
