@@ -6,5 +6,4 @@ public class GitCheck {
 		System.out.println("Git Checking ");
 		
 	}
-
 }
