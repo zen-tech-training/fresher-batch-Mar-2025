@@ -1,8 +1,5 @@
 This is Murali's text file
-<<<<<<< HEAD
-This is saransh 
-=======
-This is Murali
-hiii bro 
 
->>>>>>> a0fc08d922430844f4376fd15aadee65dba0b655
+This is saransh 
+
+This is Murali
