@@ -6,7 +6,7 @@ public class Calculator {
 	}
 
 	public static void sub(int a, int b) {
-		System.out.print( a- b);
+		System.out.print(a- b);
 	}
 
 	public static void main(String[] args) {
